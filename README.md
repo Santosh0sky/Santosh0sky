@@ -12,7 +12,7 @@
 <li>Front-end developer with 3+ years of experience.</li>
 <li>Proficient with JavaScript, React.js, CSS, C, Java</li>
 <li>Ask me anything related to programming : <a href="https://github.com/Santosh0sky/Santosh0sky/issues/new?assignees=&amp;labels=question&amp;template=custom.md&amp;title=Question%3A+%5BYour-Title%5D">here</a></li>
-<li>I’m currently open for an Intern or a new job opportunity, this is <a href="https://read.cv/0xabdulkhalid">my resume</a></li>
+<li>Fun fact: Have been developing softwares for most part of my life</li>
 </ul>
 <p><br><br></p>
 <p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br></p>
@@ -65,7 +65,7 @@
 <p></p>
 <br>
 <br>
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <h2 id="-github-stats"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b></h2>
 <br>
@@ -78,7 +78,7 @@
 <br>
 <br>
 <br>
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
 <h2 id="-lets-connect"><b> Let’s Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80"></h2>
@@ -101,12 +101,5 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<hr>
 <br>
 <p>Credit: <a href="https://github.com/Santosh0sky">Santosh Kumar Yadav</a></p>
