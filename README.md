@@ -4,14 +4,14 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EA4F7&center=true&width=500&lines=Wlecome+to+Santosh0sky+github;Software+developer;+Eager+to+learn+and+develop+new+skills" alt="Typing SVG" /></a>
 </p>
 <br>
-<h2 id="-about-me"><picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> <strong>About me</strong></h2>
-<p><picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture></p>
+<h2 id="-about-me"><picture><img src="mdImage/about_me.gif" width="50px"></picture> <strong>About me</strong></h2>
+<p><picture> <img align="right" src="mdImage/Right_Side.gif" width="250px"></picture></p>
 <br>
 <ul>
-<li>A passionate Self-taught Front-end developer</li>
-<li>Playing CTF’s at spare time</li>
-<li>Currently learning Web Development by Self</li>
-<li>Personal website <a href="https://www.0xabdulkhalid.ml">link</a></li>
+<li>Softwar developer</li>
+<li>Front-end developer with 3+ years of experience.</li>
+<li>Proficient with JavaScript, React.js, CSS, C, Java</li>
+<li>Ask me anything related to programming : <a href="https://github.com/Santosh0sky/Santosh0sky/issues/new?assignees=&amp;labels=question&amp;template=custom.md&amp;title=Question%3A+%5BYour-Title%5D">here</a></li>
 <li>I’m currently open for an Intern or a new job opportunity, this is <a href="https://read.cv/0xabdulkhalid">my resume</a></li>
 </ul>
 <p><br><br></p>
