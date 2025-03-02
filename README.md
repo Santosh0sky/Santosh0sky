@@ -70,9 +70,9 @@
 <h2 id="-github-stats"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b></h2>
 <br>
 <div align="center">
-<a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&amp;include_all_commits=true&amp;count_private=true&amp;show_icons=true&amp;line_height=20&amp;title_color=7A7ADB&amp;icon_color=2234AE&amp;text_color=D3D3D3&amp;bg_color=0,000000,130F40" width="450">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;line_height=20&amp;title_color=7A7ADB&amp;icon_color=2234AE&amp;text_color=D3D3D3&amp;bg_color=0,000000,130F40" width="375" alt="0xabdulkhalid">
+<a href="https://github.com/Santosh0sky/">
+  <img src="https://github-readme-stats.vercel.app/api?username=Santosh0sky&amp;include_all_commits=true&amp;count_private=true&amp;show_icons=true&amp;line_height=20&amp;title_color=7A7ADB&amp;icon_color=2234AE&amp;text_color=D3D3D3&amp;bg_color=0,000000,130F40" width="450">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Santosh0sky&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;line_height=20&amp;title_color=7A7ADB&amp;icon_color=2234AE&amp;text_color=D3D3D3&amp;bg_color=0,000000,130F40" width="375" alt="Santosh0sky">
 </a>
 </div>
 <br>
@@ -86,20 +86,14 @@
 <div align="left">
 <ul>
 <li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin" style="margin-bottom: 5px;">
+<a href="https://www.linkedin.com/in/santosh-yadav-248763191/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  santosh kumar yadav-%2300acee.svg?color=405DE6&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin" style="margin-bottom: 5px;">
 </a>
 </li>
 <br>
 <li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="twitter" style="margin-bottom: 5px;">
-</a>
-</li>
-<br>
-<li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" t="mail" style="margin-bottom: 5px;">
+<a href="mailto:santosh.kr.yd.sky@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  santosh kumar yadav-%23EA4335.svg?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" t="mail" style="margin-bottom: 5px;">
 </a>
 </li>
 </ul>
@@ -109,14 +103,10 @@
 <br>
 <br>
 <br>
-<div align="center">
-<h2 id="السَّلاَمُ-عَلَيْكُمْ-وَرَحْمَةُ-اللهِ-وَبَرَكَاتُهُ"><b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ…✨</b></h2>
-</div>
 <br>
 <br>
 <br>
 <br>
 <hr>
 <br>
-<p>Credit: <a href="https://github.com/0xabdulkhalid">Abdul Khalid</a></p>
-<p>Last Edited on: 09/11/2022</p> 
+<p>Credit: <a href="https://github.com/Santosh0sky">Santosh Kumar Yadav</a></p>
